@@ -1,7 +1,7 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: ... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
+Grupo: DIU2.Anig  Curso: 2022/23 
 Updated: 11/1/2023
 
 Proyecto: 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Ana López Mohedano     :octocat:     
+ * :bust_in_silhouette:  Ignacio Tovar Delgado     :octocat:
 
 ----- 
 
@@ -39,11 +39,26 @@ Miembros
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+Las personas elegidas representan colectivos de usuarios habituales a nuestro producto.
+
+**Sergio**
+
+Sergio es una persona que actualmente vive en Madrid. Es un gran apasionado de los viajes por lo que quiere hacer una escapada con su pareja para visitar Granada. Por ello está intentando reservar algún tour para poder conocer algo más sobre la historia de esta ciudad.
+
+![imagen](P1/persona_Ignacio.PNG)
+
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+**Sergio**
+
+Se ha cogido la experiencia de Sergio debido a que es una experiencia muy habitual a la hora de querer visitar una ciudad y querer realizar un free tour
+
+![imagen](P1/userJourney_ignacio.PNG);
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
