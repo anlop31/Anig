@@ -32,12 +32,14 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Hemos realizado un analisis competitivo entre las principales páginas de free tour por Granada. Se ha realizado la comparación entre:
+- [FreeTour Granada](https://freetour-granada.com/): Esta es la opcion proporcionada. Bastante mejorable en distintos aspectos.
+- [Nazari Tours](https://nazaritoursgranada.com/): Esta opcion resulta mejor que la proporcionada pero aun así deja que desear en algunos aspectos.
+- [WalkIn Granada](https://walkingranada.com/): Se trata de una opción mucho mejor que la proporcionada con una interfaz e implementación más agradable y sencilla.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 Las personas elegidas representan colectivos de usuarios habituales a nuestro producto.
 
@@ -50,10 +52,7 @@ Sergio es una persona que actualmente vive en Madrid. Es un gran apasionado de l
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
+ 
 **Sergio**
 
 Se ha cogido la experiencia de Sergio debido a que es una experiencia muy habitual a la hora de querer visitar una ciudad y querer realizar un free tour
