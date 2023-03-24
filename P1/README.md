@@ -22,7 +22,13 @@ Hemos decidido crear dos personas que representan dos colectivos bastante frecue
 Sergio es una persona que actualmente vive en Madrid. Es un gran apasionado de los viajes por lo que quiere hacer una escapada con su pareja para visitar Granada. Por ello está intentando reservar algún tour para poder conocer algo más sobre la historia de esta ciudad.
 
 ![img](./persona_Ignacio.PNG)
- 
+
+**Katharina**
+
+Katharina es una persona que vive en Berlín, ama el arte y se dedica a ello, y busca inspiración para sus obras. Intenta visitar lugares para buscar allí ideas.
+
+<img width="1024" alt="persona_Ana" src="https://user-images.githubusercontent.com/77020767/227498209-2d4230fe-b17a-42dd-b19b-3553baaf5b4b.png">
+
 
 ## User Journey Map  ( 1 por persona)
 
@@ -31,6 +37,14 @@ Sergio es una persona que actualmente vive en Madrid. Es un gran apasionado de l
 Este caso se centra en el proceso de reserva de un viaje "express" muy habitual en el turismo nacional, y el problema que este suele conllevar con la disponibilidad por el hecho de organizarlo con poco tiempo de margen.
 
 ![img](./userJourney_ignacio.PNG)
+
+
+**Katharina**
+
+En el caso de Katharina busca experiencias, y quiere que su viaje sea interesante y que aprenda mucho, y no sabe si realmente lo disfrutará porque no ve opiniones en los tours de la página.
+
+![userJourney_Ana](https://user-images.githubusercontent.com/77020767/227498536-7cc75a9c-535d-4f46-84dd-323d4279506f.png)
+
 
 
 ## Revisión de Usabilidad 
