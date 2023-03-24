@@ -2,13 +2,13 @@
 
 ## Empathy map
 
-Hemos realizado un mapa de empatía respectivo a la experiencia de nuestras personas, que caracterizan dos colectivos bastante frecuentes que utilizan nuestra pagina web.
+Hemos realizado un mapa de empatía respectivo a la experiencia de nuestras personas, que caracterizan dos colectivos bastante frecuentes que utilizan nuestra página web. En general, la gente queda bastante contenta después de hacer los tours y aprende bastante ya que los guías te explican muchas cosas, pero por otra parte puede que a la gente le tire un poco para atrás el precio de algunos de los tours. Alguien que venga de fuera seguramente esté más dispuesto a pagar los tours que alguien que sea de España.
 
 ![img](./empathyMap.PNG)
 
 ## Analisis Competitivo
 
-Hemos realizado un analisis comparativo de nuestra página con otras páginas del sector, con el que hemos podido llegar a la conclusión de que nuestra página aunque es bastante buena en algunos aspectos deja bastante que desear en muchos otros teniendo bastante que mejorar, ya que actualmente es inferior en cuanto a prestaciones que las paginas de sus competidores.
+Hemos realizado un análisis comparativo de nuestra página con otras páginas del sector, con el que hemos podido llegar a la conclusión de que nuestra página aunque es bastante buena en algunos aspectos deja bastante que desear en muchos otros teniendo bastante que mejorar, ya que actualmente es inferior en cuanto a prestaciones que las páginas de sus competidores.
 
 ![img](./analisisCompetitivo.PNG)
 
