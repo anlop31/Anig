@@ -74,13 +74,7 @@ Se ha cogido la experiencia de Sergio debido a que es una experiencia muy habitu
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![imagen](P2/Malla%20de%20recepci%C3%B3n.png)
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -92,12 +86,12 @@ Se ha cogido la experiencia de Sergio debido a que es una experiencia muy habitu
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![imagen](P2/Scope%20canvas.png) 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![imagen](P2/Task%20Matrix.png) 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
