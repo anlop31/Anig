@@ -22,6 +22,7 @@
 
 * Sitemap 
 * Labelling 
+![imagen](./Arquitectura%20de%20informaci%C3%B3n.png)
 
 
 ### Prototipo Lo-FI Wireframe 
