@@ -5,11 +5,11 @@ Grupo: DIU2.Anig  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Conociendo Granada
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Crear una página que ofrezca tours de distintos tipos (gratuitos, de pago, privados), para conocer los distintos rincones de la provincia de Granada, tanto la ciudad, como la montaña o la costa. Para incentivar a los clientes a visitar la página se crearán y se mandaran ofertas temporales mediante un sistema de suscripción.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
