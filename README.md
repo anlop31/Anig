@@ -77,8 +77,23 @@ Katherine busca viajar a sitios nuevos y ver esculturas y elementos artísticos 
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Valoración final (numérica): 82
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+
+Comentario sobre la usabilidad de la página web:
+
+En general podemos determinar que la funcionalidad de la página cumple con las metas y objetivos comunes del usuario, muestra la información clara y tiene una interfaz fácil de usar, pero vemos otras desventajas como la falta de un buscador que busque los tours deseados o los ordene por popularidad, calidad o precio. También se echa en falta una zona de comentarios, ya sea de la página en general o de los tours en específico, ya que es algo que es importante, y al usuario suele interesarle ver opiniones sobre lo que quiere contratar.
+
+Aparte de eso, la página tiene una página de inicio clara, aunque al tener que bajar mucho para verlo todo puede ser tedioso. Tiene buena navegación, aunque no hay elementos como navegación por nombre, más reciente, etc.
+
+Los errores en general se manejan bien, dejan claro lo que se necesita, aunque a veces cuando hay varios errores al rellenar algún formulario, solo muestra uno de ellos, esto puede ser un poco frustrante para el usuario, ya que al arreglar el error que se le muestra, le saldrá otro seguidamente.
+
+El contenido está en un lenguaje claro y apropiado. El contenido es legible en la página.
+
+La ayuda que ofrece la página está bien, pero la ayuda en línea es con un bot que no siempre responde las preguntas que necesitas. Ofrece otro tipo de ayudas como teléfono, correo electrónico, o un formulario en la página.
+
+El rendimiento de la página es óptimo, no se queda bloqueado ni inhibe la experencia del usuario.
 
 
 ## Paso 2. UX Design  
