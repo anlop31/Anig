@@ -49,6 +49,12 @@ Sergio es una persona que actualmente vive en Madrid. Es un gran apasionado de l
 
 ![imagen](P1/persona_Ignacio.PNG)
 
+**Katherine**
+
+Katherine es una persona muy creativa que busca siempre inspiración para nuevas obras, y le gusta mucho aprender y conocer gente por el camino.
+
+<img width="1024" alt="persona_Ana" src="https://user-images.githubusercontent.com/77020767/234600830-5200de60-8332-4ed8-b66f-344781ae5e57.png">
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -58,6 +64,13 @@ Sergio es una persona que actualmente vive en Madrid. Es un gran apasionado de l
 Se ha cogido la experiencia de Sergio debido a que es una experiencia muy habitual a la hora de querer visitar una ciudad y querer realizar un free tour
 
 ![imagen](P1/userJourney_ignacio.PNG);
+
+**Katherine**
+
+Katherine busca viajar a sitios nuevos y ver esculturas y elementos artísticos interesantes, pero no sabe si le interesará el tour que va a contratar ya que falta información o fotos sobre él.
+
+![userJourney_Ana](https://user-images.githubusercontent.com/77020767/234601080-587f8cc2-4b67-40af-8fc1-d4ecc0afe8d4.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
