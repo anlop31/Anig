@@ -125,12 +125,7 @@ El rendimiento de la página es óptimo, no se queda bloqueado ni inhibe la expe
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![imagen](P2/sitemap%2Blabelling.jpg)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
