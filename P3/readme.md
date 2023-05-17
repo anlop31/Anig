@@ -5,6 +5,16 @@
 
 ## Landing Page
 
+## Guidelines
+A continuación definiremos los distintos componentes de nuestra aplicación.
+
+- ### Logotipo
+- ### Paleta de colores
+- ### Tipografía
+- ### Iconografía.
+- ### Patron de diseño.
+- ### Estilo de lenguaje
+
 
 ## Mockup: LAYOUT HI-FI
 
