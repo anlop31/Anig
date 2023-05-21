@@ -12,7 +12,7 @@ Descripción:
 >>> Crear una página que ofrezca tours de distintos tipos (gratuitos, de pago, privados), para conocer los distintos rincones de la provincia de Granada, tanto la ciudad, como la montaña o la costa. Para incentivar a los clientes a visitar la página se crearán y se mandaran ofertas temporales mediante un sistema de suscripción.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![imagen](/P3/logo2.jpg)
 
 Miembros
  * :bust_in_silhouette:   Ana López Mohedano     :octocat:     
@@ -141,16 +141,21 @@ El rendimiento de la página es óptimo, no se queda bloqueado ni inhibe la expe
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para la realiación del Moodboard hemos utiliado la plantilla proporcionada en Figma. En ella se han incluido varios logotipos, la
+paleta de colores que hemos elegido finalmente y las distintas fuentes que usaremos.
+Para la creación del logotipo hemos utilizado la herramienta Designevo. En su creación hemos realizado distintas versiones del logotipo que pueden ser vistas en el readme de la carpeta P3.
+Se han incluido distintas imagenes inspiradoras que nos han servido para guiarnos en las elecciones a tomar en la página como la paleta de colores o el logotipo. Para los logotipos hemos realizado una selección de los que nos serán necesarios para nuestra página. Para la paleta de colores hemos realizado una selección de colores pastel claros en los que destacan uno azulado y otro verdoso que serán los colores principales de nuestra página.
+![imagen](./P3/MoodBoard%20P3.jpg)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Para la creación de nuestra Landing Page, hemos realizado una versión inicial, la cuál será utilizada para realiar nuestra página principal.
+Para el título hemos elegido una frase que llame la atención del usuario, y la hemos complementado con una frase que resalte la propuesta de nuestra web. Como fondo hemos utilizado una foto en la que se ve el momunmento más caracteristico de Granada como es la Alhambra, que además se ve el resto de Granada tras ella.
 
->>> Plantear Landing Page 
+![imagen](./P3/Landing_page.jpg)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -161,15 +166,9 @@ El rendimiento de la página es óptimo, no se queda bloqueado ni inhibe la expe
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Para la realiación del Mockup hemos desarrollado los distintos bocetos Lo-Fi que realizamos en la práctica anterior. Para la creación de ellos nos hemos basado en los puntos desarrollados anteriormente como el moodboard y Landing Page.
 
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Para ello hemos realizado los distintos bocetos como la página principal, página de registro/inicio de sesión, contacto, tours... En la carpeta dedicada a la práctica 3 se pueden ver los distintos mockup en profundidad, además de poder acceder a un archivo figma donde se pueden ver desde primera mano los distintos bocetos-Hifi y una simulación que recrea nuestra página web con los distintos bocetos, en la que se puede navegar a través de ella.
 
 
 ## Paso 4. Evaluación 
