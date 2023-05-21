@@ -142,18 +142,17 @@ El rendimiento de la página es óptimo, no se queda bloqueado ni inhibe la expe
 -----
 
 
-Para la realiación del Moodboard hemos utiliado la plantilla proporcionada en Figma. En ella se han incluido varios logotipos, la
-paleta de colores que hemos elegido finalmente y las distintas fuentes que usaremos.
+Para la realización del Moodboard hemos utilizado la plantilla proporcionada en Figma. En ella se han incluido varios logotipos, la paleta de colores que hemos elegido finalmente y las distintas fuentes que usaremos.
 Para la creación del logotipo hemos utilizado la herramienta Designevo. En su creación hemos realizado distintas versiones del logotipo que pueden ser vistas en el readme de la carpeta P3.
-Se han incluido distintas imagenes inspiradoras que nos han servido para guiarnos en las elecciones a tomar en la página como la paleta de colores o el logotipo. Para los logotipos hemos realizado una selección de los que nos serán necesarios para nuestra página. Para la paleta de colores hemos realizado una selección de colores pastel claros en los que destacan uno azulado y otro verdoso que serán los colores principales de nuestra página.
+Se han incluido distintas imágenes inspiradoras que nos han servido para guiarnos en las elecciones a tomar en la página como la paleta de colores o el logotipo. Para los logotipos hemos realizado una selección de los que nos serán necesarios para nuestra página. Para la paleta de colores hemos realizado una selección de colores pastel claros en los que destacan uno azulado y otro verdoso que serán los colores principales de nuestra página.
 ![imagen](./P3/MoodBoard%20P3.jpg)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-Para la creación de nuestra Landing Page, hemos realizado una versión inicial, la cuál será utilizada para realiar nuestra página principal.
-Para el título hemos elegido una frase que llame la atención del usuario, y la hemos complementado con una frase que resalte la propuesta de nuestra web. Como fondo hemos utilizado una foto en la que se ve el momunmento más caracteristico de Granada como es la Alhambra, que además se ve el resto de Granada tras ella.
+Para la creación de nuestra Landing Page, hemos realizado una versión inicial, la cual será utilizada para realizar nuestra página principal.
+Para el título hemos elegido una frase que llame la atención del usuario, y la hemos complementado con una frase que resalte la propuesta de nuestra web. Como fondo hemos utilizado una foto en la que se ve el momunmento más característico de Granada como es la Alhambra, que además se ve el resto de Granada tras ella.
 
 ![imagen](./P3/Landing_page.jpg)
 
@@ -161,13 +160,84 @@ Para el título hemos elegido una frase que llame la atención del usuario, y la
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+A continuación definiremos los distintos componentes de nuestra aplicación.
+
+- ### Logotipo
+Para la creación de nuestro logotipo hemos creado diferentes versiones:
+
+![imagen](../logo1.jpg)
+
+![imagen](../logo2.jpg)
+
+![imagen](../logo3.jpg)
+
+![imagen](../logo4.jpg)
+
+![imagen](../logo5.jpg)
+
+Al final hemos decidido usar las distintas versiones del logo según nos sea conveniente.
+
+- ### Paleta de colores
+Para la paleta de colores nos hemos decantado por una gama de colores pastel, para tener un diseño simple y limpio, con unos colores suaves que no desagraden a la vista del usuario.
+
+La paleta elegida es la siguiente:
+
+![imagen](../paleta_colores.png)
+
+- ### Tipografía
+Para la tipografía hemos elegido un tipo de letra simple, claro y limpio, para tener una tipografía que resulte atactiva y fácil de entender para el cliente.
+
+Para ello nos hemos decidido por tres tipografías:
+* **M PLUS 1p Light**: Esta será la tipografía elegida para los títulos de nuestra página, tendrá un tamaño de fuente de 37.5
+
+* **Fahkwang ExtraLight**: Esta es la elegida para los subtítulos de la página y será de tamaño 17.
+
+* **Heebo Light**: Esta es la elegida para el texto genérico y será de tamaño 11.
+
+- ### Iconografía.
+Hemos elegido una selección de los iconos suministrados por google, los cuales se adecúan para nuestra página. Estos tienen un diseño minimalista, de fácil interpretación por el usuario, además de estar altamente reconocidos por los distintos usuarios de la red.
+
+![imagen](../iconos.png)
+
+- ### Patrón de diseño.
+Para este apartado hemos usado varios patrones de diseño, respecto a la navegación, a la manera de mostrar los datos, etc. 
+
+- Búsqueda:
+1. Patrón caja de búsqueda: se utiliza para la búsqueda de tours introduciendo texto para buscar un tour en concreto.
+
+- Para los inputs:
+1. Selector de calendario: muestra un calendario para seleccionar un día, mostrando los días libres en un solo vistazo.
+2. Ajustes: el usuario necesita un apartado para cambiar sus datos.
+
+- Para la navegación:
+1. Navegación por pestañas: se utiliza para el menú principal que se muestra en la parte superior en todas las páginas, para hacer más fácil el acceso a cualquier página dondequiera que esté navegando el usuario.
+2. Breadcrumbs: resaltar en el menú principal en qué pestaña está ahora mismo el usuario.
+3. Home link: el usuario puede volver a la página principal fácilmente (clicando el logo).
+4. Carrusel: El usuario necesita navegar entre una serie de ítems (en este caso, comentarios).
+
+- Manera de mostrar datos:
+1. Filtros de búsqueda: usamos filtros de búsqueda para filtrar los tipos de tours y que sea más fácil para el  usuario ver los tours que le interesen.
+
+- Onboarding:
+1. Registro de cuenta: para saber quién es el usuario activo para proveerle contenido personalizado u oportunidades para realizar a una compra.
+
+- Social:
+1. Testimonios: para mostrar valoraciones de usuarios que ya han probado nuestros tours e inciten al usuario a probar el tour.
+
+- Shopping:
+1. Página del producto: El usuario necesita detalles del tour para saber si le interesa o cómo se realiza el mismo.
+2. Cupón: para incentivar al usuario a que compre tours mostrándole ofertas.
+
+
+- ### Estilo de lenguaje
+Para nuestra página hemos optado por un estilo de lenguaje sencillo, sin ser muy vulgar y sin el uso de muchos tecnicismos, para que sea lo más fácil de entender posible.
+
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-Para la realiación del Mockup hemos desarrollado los distintos bocetos Lo-Fi que realizamos en la práctica anterior. Para la creación de ellos nos hemos basado en los puntos desarrollados anteriormente como el moodboard y Landing Page.
+Para la realización del Mockup hemos desarrollado los distintos bocetos Lo-Fi que realizamos en la práctica anterior. Para la creación de ellos nos hemos basado en los puntos desarrollados anteriormente como el moodboard y Landing Page.
 
 Para ello hemos realizado los distintos bocetos como la página principal, página de registro/inicio de sesión, contacto, tours... En la carpeta dedicada a la práctica 3 se pueden ver los distintos mockup en profundidad, además de poder acceder a un archivo figma donde se pueden ver desde primera mano los distintos bocetos-Hifi y una simulación que recrea nuestra página web con los distintos bocetos, en la que se puede navegar a través de ella.
 
