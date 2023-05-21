@@ -213,7 +213,7 @@ Para este apartado hemos usado varios patrones de diseño, respecto a la navegac
 1. Navegación por pestañas.
 2. Breadcrumbs.
 3. Home link.
-4. Carruse.
+4. Carrusel.
 
 - Manera de mostrar datos:
 1. Filtros de búsqueda.
