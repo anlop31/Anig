@@ -55,24 +55,31 @@ Para nuestra página hemos optado por un estilo de lenguaje sencillo, sin ser mu
 Hemos realiado los siguientes layout para nuestra página:
 
 - Página principal
+
 ![imagen](./Homepage.JPG)
 
 - Registro e Inicio de Sesión:
+
 ![imagen](./Inicio-Registro.JPG)
 
 - Perfil y Tours
+
 ![imagen](./Perfil-Tours.JPG)
 
 - Empresa
+
 ![imagen](./Empresa.JPG)
 
 - Contacto:
+
 ![imagen](./Contacto.JPG)
 
 - Tour Especifico:
+
 ![imagen](./TourEspecifico.JPG)
 
 - Reservas:
+
 ![iamgen](./Reservas.JPG)
 
 ## Documentación: Publicación del Case Study
