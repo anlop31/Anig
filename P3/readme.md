@@ -28,10 +28,8 @@ Al final hemos decidido usar las distintas versiones del logo según nos sea con
 Para la  paleta de colores nos hemos decantado por una gama de colores pastel, para tener un diseño simple y limpio, con unos colores suaves que no desagraden a la vista del usuario.
 
 La paleta elegida es la siguiente:
-=======
 
 ![imagen](./paleta_colores.png)
-
 
 - ### Tipografía
 Para la tipografía hemos elegido un tipo de letra simple, claro y limpio, para tener una tipografía que resulte atactiva y facil de entender para el cliente.
