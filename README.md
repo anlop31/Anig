@@ -165,15 +165,15 @@ A continuación definiremos los distintos componentes de nuestra aplicación.
 - ### Logotipo
 Para la creación de nuestro logotipo hemos creado diferentes versiones:
 
-![imagen](../logo1.jpg)
+![imagen](./P3/logo1.jpg)
 
-![imagen](../logo2.jpg)
+![imagen](./P3/logo2.jpg)
 
-![imagen](../logo3.jpg)
+![imagen](./P3/logo3.jpg)
 
-![imagen](../logo4.jpg)
+![imagen](./P3/logo4.jpg)
 
-![imagen](../logo5.jpg)
+![imagen](./P3/logo5.jpg)
 
 Al final hemos decidido usar las distintas versiones del logo según nos sea conveniente.
 
@@ -182,7 +182,7 @@ Para la paleta de colores nos hemos decantado por una gama de colores pastel, pa
 
 La paleta elegida es la siguiente:
 
-![imagen](../paleta_colores.png)
+![imagen](./P3/paleta_colores.png)
 
 - ### Tipografía
 Para la tipografía hemos elegido un tipo de letra simple, claro y limpio, para tener una tipografía que resulte atactiva y fácil de entender para el cliente.
@@ -197,36 +197,36 @@ Para ello nos hemos decidido por tres tipografías:
 - ### Iconografía.
 Hemos elegido una selección de los iconos suministrados por google, los cuales se adecúan para nuestra página. Estos tienen un diseño minimalista, de fácil interpretación por el usuario, además de estar altamente reconocidos por los distintos usuarios de la red.
 
-![imagen](../iconos.png)
+![imagen](./P3/iconos.png)
 
 - ### Patrón de diseño.
-Para este apartado hemos usado varios patrones de diseño, respecto a la navegación, a la manera de mostrar los datos, etc. 
+Para este apartado hemos usado varios patrones de diseño, respecto a la navegación, a la manera de mostrar los datos, etc. A continuación los enumeramos, se describen con más detalle en el readme de la P3.
 
 - Búsqueda:
-1. Patrón caja de búsqueda: se utiliza para la búsqueda de tours introduciendo texto para buscar un tour en concreto.
+1. Patrón caja de búsqueda.
 
 - Para los inputs:
-1. Selector de calendario: muestra un calendario para seleccionar un día, mostrando los días libres en un solo vistazo.
-2. Ajustes: el usuario necesita un apartado para cambiar sus datos.
+1. Selector de calendario.
+2. Ajustes.
 
 - Para la navegación:
-1. Navegación por pestañas: se utiliza para el menú principal que se muestra en la parte superior en todas las páginas, para hacer más fácil el acceso a cualquier página dondequiera que esté navegando el usuario.
-2. Breadcrumbs: resaltar en el menú principal en qué pestaña está ahora mismo el usuario.
-3. Home link: el usuario puede volver a la página principal fácilmente (clicando el logo).
-4. Carrusel: El usuario necesita navegar entre una serie de ítems (en este caso, comentarios).
+1. Navegación por pestañas.
+2. Breadcrumbs.
+3. Home link.
+4. Carruse.
 
 - Manera de mostrar datos:
-1. Filtros de búsqueda: usamos filtros de búsqueda para filtrar los tipos de tours y que sea más fácil para el  usuario ver los tours que le interesen.
+1. Filtros de búsqueda.
 
 - Onboarding:
-1. Registro de cuenta: para saber quién es el usuario activo para proveerle contenido personalizado u oportunidades para realizar a una compra.
+1. Registro de cuenta.
 
 - Social:
-1. Testimonios: para mostrar valoraciones de usuarios que ya han probado nuestros tours e inciten al usuario a probar el tour.
+1. Testimonios.
 
 - Shopping:
-1. Página del producto: El usuario necesita detalles del tour para saber si le interesa o cómo se realiza el mismo.
-2. Cupón: para incentivar al usuario a que compre tours mostrándole ofertas.
+1. Página del producto.
+2. Cupón.
 
 
 - ### Estilo de lenguaje
