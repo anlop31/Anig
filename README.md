@@ -12,6 +12,7 @@ Descripción:
 >>> Crear una página que ofrezca tours de distintos tipos (gratuitos, de pago, privados), para conocer los distintos rincones de la provincia de Granada, tanto la ciudad, como la montaña o la costa. Para incentivar a los clientes a visitar la página se crearán y se mandaran ofertas temporales mediante un sistema de suscripción.
 
 Logotipo: 
+
 ![imagen](/P3/logo2.jpg)
 
 Miembros
