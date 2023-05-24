@@ -283,10 +283,10 @@ A partir de esta informacíon hemos desarrollado el siguiente personaje: David e
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Lucía         | M / 70   | Jubilado    | Baja      | Introvertido | Web.       | A 
-| Carlos        | H / 40   | Profesor    | Media       | Timido       | Web        | A 
-| María         | M / 40   | Arquitecta  | Media        | Emocional    | móvil      | B 
-| David         | H / 35   | Informatico | Alta       | Racional     | Web        | B 
+| Lucía         | M / 70   | Jubilado    | Baja        | Cabreada     | móvil.     | A 
+| Carlos        | H / 40   | Profesor    | Media       | Sorpresivo   | Web        | A 
+| María         | M / 40   | Arquitecta  | Media       | Asqueada     | Web        | B 
+| David         | H / 35   | Informatico | Alta        | Triste       | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
