@@ -249,7 +249,9 @@ Para ello hemos realizado los distintos bocetos como la página principal, pági
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+La idea de este Website es ofrecer actividades de artesanía con una perspectiva orientada al arte nazarí, con el objetivo de dar a conocer este tipo de artesanía y que la gente se interese más por ella. En esta web se dispone de información sobre distintos talleres, además de la opción de reserva y compra de ellos. Adicionalmente se pueden ver comentarios y opiniones de otros usuarios que hayan realizado los distintos talleres para un mayor feedback.
+
+![Enlace al github del caso asignado](https://github.com/seryiiqteca/DIU_CafeDerramao)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
