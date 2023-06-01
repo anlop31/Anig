@@ -292,13 +292,15 @@ A partir de esta informacíon hemos desarrollado el siguiente personaje: David e
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-![imagen](P4/Cuestionario-SUS-DIU-Anig.pdf)
+![imagen](P4/Cuestionario-SUS-DIU-Anig.JPG)
+
+>>> Valoración Personal
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Este se puede encontrar dentro de la carpeta P4.
+Este se puede encontrar dentro de la carpeta P4 o pulsando el siguiente enlace ![Pulse Aqui](P4/DIU_report-template-usability-test23-CafeDerramao.pdf)
 
 
 
