@@ -296,17 +296,13 @@ A partir de esta informacíon hemos desarrollado el siguiente personaje: David e
 
 ![imagen](P4/Cuestionario-SUS-DIU-Anig.JPG)
 
->>> Valoración Personal
+Como podemos ver los resultados de ambas páginas son bastante satifactorios encontrandose ambas páginas en el rango aceptable tipo B, el cuál es un rango bastante aceptable. En ellas se pueden encontrar varías incosistencias en ellas
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
 Este se puede encontrar dentro de la carpeta P4 o pulsando el siguiente enlace ![Pulse Aqui](P4/DIU_report-template-usability-test23-CafeDerramao.pdf)
-
-
-
->>> Valoración personal 
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
