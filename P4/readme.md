@@ -46,8 +46,8 @@ A partir de esta informacíon hemos desarrollado el siguiente personaje: David e
 
 * Tareas realizadas 
 
-El principal objetivo de este documento es analizar e identificar los defectos de la aplicación en relación a su usabilidad, realizando para ello un test de usabilidad basándonos en un cuestionario SUS, en el que se valora la interacción de distintos tipos de usuarios con el sistema. Este test ha sido realizado por el equipo DIU2.Anig, en el que se valorará el prototipo del equipo DIU3.CafeDerramao. 
-Para realizar este test se ha contado con la opinión de dos usuarios distintos:
+El principal objetivo es analizar e identificar los defectos de la aplicación en relación a su usabilidad, realizando para ello un test de usabilidad basándonos en un cuestionario SUS, en el que se valora la interacción de distintos tipos de usuarios con el sistema. Este test ha sido realizado por el equipo DIU2.Anig, en el que se valorará el prototipo del equipo DIU3.CafeDerramao. El cuestionario SUS realizado sobre el caso B está adjunto más abajo en el README.
+Para realizar este test se ha contado con la opinión de dos usuarios distintos, descritos de forma más detallada en apartados anteriores:
 María, una arquitecta de 40 años que le apasionan los tours turísticos y la fotografía.
 David, un informático de 35 años que atraviesa un momento difícil en la actualidad. Además, es un gran entusiasta del aprendizaje, por lo que le gusta aprender continuamente cosas nuevas.
 
