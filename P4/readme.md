@@ -58,7 +58,7 @@ Estos resultados indican que el sistema evaluado en el caso A tiene un nivel de 
 
 Para el caso B, las puntuaciones fueron 80 y 82.5, que son de tipo aceptable tipo C y aceptable tipo B, respectivamente. En este caso tienen resultados muy parecidos, lo que sugiere que los usuarios consideran que el sistema es en general aceptable, pero también señalan algunos aspectos que podrían ser mejorados para una mayor facilidad de uso y satisfacción.
 
-![PDF](./Cuestionario-SUS-DIU-Anig.pdf)
+![Cuestionario SUS](./Cuestionario-SUS-DIU-Anig.pdf)
 
 
 ## Usability Report de Caso B
