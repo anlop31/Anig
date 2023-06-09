@@ -60,9 +60,7 @@ Madre Ana:
 
 
 
-
-
->>> Insertar algunas fotos de los resultados AOI
+De este caso no tenemos los puntos de interés que se pueden obtener con la herramienta Gaze Recorder, ya que la segunda vez que accedes al proyecto no permite obtener los puntos de interés ni visualizar las imágenes, porque es de pago y permite hacer las cosas una vez.
 
 
 Para ver todos los resultados obtenidos puede visualizar la carpeta ![EyeTracking-ConociendoGranada](./EyeTracking-ConociendoGranada)
