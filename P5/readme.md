@@ -63,7 +63,9 @@ Madre Ana:
 De este caso no tenemos los puntos de interés que se pueden obtener con la herramienta Gaze Recorder, ya que la segunda vez que accedes al proyecto no permite obtener los puntos de interés ni visualizar las imágenes, porque es de pago y permite hacer las cosas una vez.
 
 
+
 Para ver todos los resultados obtenidos puede visualizar la carpeta ![EyeTracking-ConociendoGranada](./EyeTracking-ConociendoGranada)
+
 
 
 ### Caso B
@@ -111,8 +113,6 @@ Algunas de las fotos de los puntos de interés (AOIs) hechos con los heatmap de 
 
 
 ![imagen](./EyeTracking-CafeDerramao/Madre-Ana/AOIs/AOI_3.png)
-
-
 
 
 
