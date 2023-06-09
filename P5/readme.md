@@ -42,15 +42,19 @@ Como caso B asignamos el proyecto de los compañeros CafeDerramao. A continuaci�
 
 
 
->>> Insertar algunas fotos de los resultados AOI
+Algunas de las fotos de los puntos de interés (AOIs):
 
-[img](./EyeTracking-ConociendoGranada/Madre Ana/AOI_1)
-
-
-[img](./EyeTracking-ConociendoGranada/Madre Ana/AOI_2)
+[imagen](./EyeTracking-CafeDerramao/Madre Ana/AOI_1)
 
 
-[img](./EyeTracking-ConociendoGranada/Madre Ana/AOI_3)
+
+[imagen](./EyeTracking-CafeDerramao/Madre Ana/AOI_2)
+
+
+
+[imagen](./EyeTracking-CafeDerramao/Madre Ana/AOI_3)
+
+
 
 
 
