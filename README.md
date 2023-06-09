@@ -426,7 +426,11 @@ Para ver todos los resultados obtenidos puede visualizar la carpeta ![EyeTrackin
 
 ## Conclusiones
 
-A partir de la información obtenida podemos concluir que la aplicación cuenta con la atención que se pretendía, por lo que podríamos llegar a decir que el diseño cumple con su cometido esperado.
+Tras realizar varios análisis de heatmap en nuestro sitio web desde la perspectiva de varios usuarios, hemos obtenido información valiosa sobre la atención y el comportamiento de los usuarios. Al analizar los resultados, podemos extraer conclusiones importantes.
+
+Los heatmap nos han proporcionado una representación visual de las áreas de mayor interacción en nuestra aplicación. Hemos observado que las secciones clave, como los botones de llamada a la acción, enlaces importantes y elementos interactivos, han recibido una atención significativa por parte de los usuarios. Esto indica que el diseño y la disposición de estos elementos son efectivos para captar la atención de los usuarios y guiarlos hacia las acciones deseadas.
+
+En general, a partir de la información obtenida de los heatmap, podemos concluir que la aplicación cuenta con la atención que se pretendía. Los usuarios están interactuando con los elementos clave de manera consistente, lo que sugiere que el diseño cumple con su cometido esperado al guiar a los usuarios hacia las acciones deseadas.
 
 
 
