@@ -305,27 +305,57 @@ Como podemos ver los resultados de ambas páginas son bastante satifactorios enc
 Este se puede encontrar dentro de la carpeta P4 o pulsando el siguiente enlace ![Pulse Aqui](P4/DIU_report-template-usability-test23-CafeDerramao.pdf)
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+>>> ## Paso 5. Eye Tracking
+
+## Usuarios 
+
+Para realizar el proceso de Eye Tracking se han seleccionado inicialmente 3 personas:
+#### Dos usuarios expertos:
+  - Ana Lopez
+  - Ignacio Tovar
+#### Un usuario objetivo:
+  - Madre Ana
+
+En este caso la elección de usuarios se ha visto condicionada por la aplicación utilizada GazeRecorder, debido a que para poder realizar más estudios o compartir estos es necesario pagar por una cuenta premiun en la aplicación.
+
+## Tareas realizadas 
+
+El principal objetivo es analizar e identificar las secciones sobre las que los usuarios dirigen su atención, obteniendo los puntos de interés (AOI) del web,. Este test ha sido realizado por el equipo DIU2.Anig, en el que se valorará el prototipo del equipo DIU3.CafeDerramao.
+Para realizar este test se ha visitado las distintas páginas de ambos prototipos, estando en cada una de ellas 10-12 segundos.
+
+## Problemas en el estudio
+Como se puede observar en una gran parte de las imagenes del mapa de calor, los resultados no parecen ser correctos, debido a que la herramienta GazeRecorder, en este caso no realizaba la calibración de los ojos correctamente, por lo que se puede apreciar en una gran parte de las fotos que el mapa de calor se centra en la parte izquierda de la página.
 
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
+## A/B Testing. 
 
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
+A continuación tenemos los resultados del EyeTracking desde la perspectiva de los distintos usuarios para los distintos prototipos a analizar:
+### Caso A
+Como caso A asignamos nuestro proyecto Conociendo Granada. A continuación se muestran algunos resultados de los distintos usuarios:
+>>> Insertar Algunas fotos de los resultados que mejor se vean de mapa de calor
 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
+>>> Insertar algunas fotos de los resultados AOI
 
->>> (uso de tabla de datos, indicar herramientas usadas) 
+Para ver todos los resultados obtenidos puede visualizar la carpeta ![EyeTracking-ConociendoGranada](./EyeTracking-ConociendoGranada)
 
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+
+### Caso B
+Como caso B asignamos el proyecto de los compañeros CafeDerramao. A continuación se muestran algunos resultados de los distintos usuarios:
+>>> Insertar Algunas fotos de los resultados que mejor se vean de mapa de calor
+
+>>> Insertar algunas fotos de los resultados AOI
+
+Para ver todos los resultados obtenidos puede visualizar la carpeta ![EyeTracking-CafeDerramao](./EyeTracking-CafeDerramao)
+
+## Conclusiones
+
+A partir de la información obtenida podemos concluir que la aplicación cuenta con la atención que se pretendía, por lo que podríamos llegar a decir que el diseño cumple con su cometido esperado.
 
 
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Como conclusión final de las prácticas podemos decir que estás practicas han sido muy gratificantes, debido a que se ha planteado un nuevo método de trabajo en el que, a partir de un primer análisis de una página con muchos errores, hemos llegado a realizar nuestro propio proyecto de página web en el que hemos aplicado los distintos conocimientos que hemos ido adquiriendo a lo largo del curso para realizar un buen diseño de página atractiva que ofrezca una buena experiencia al usuario.
 
 
 
