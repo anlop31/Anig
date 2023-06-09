@@ -332,20 +332,97 @@ Como se puede observar en una gran parte de las imagenes del mapa de calor, los 
 A continuación tenemos los resultados del EyeTracking desde la perspectiva de los distintos usuarios para los distintos prototipos a analizar:
 ### Caso A
 Como caso A asignamos nuestro proyecto Conociendo Granada. A continuación se muestran algunos resultados de los distintos usuarios:
->>> Insertar Algunas fotos de los resultados que mejor se vean de mapa de calor
 
->>> Insertar algunas fotos de los resultados AOI
+Ignacio:
 
-Para ver todos los resultados obtenidos puede visualizar la carpeta ![EyeTracking-ConociendoGranada](./EyeTracking-ConociendoGranada)
+![imagen](./P5/EyeTracking-ConociendoGranadao/Ignacio/ConociendoGranada-001.JPG)
+
+
+![imagen](./P5/EyeTracking-ConociendoGranada/Ignacio/ConociendoGranada-002.JPG)
+
+
+![imagen](./P5/EyeTracking-ConociendoGranada/Ignacio/ConociendoGranada-003.JPG)
+
+Ana:
+
+![imagen](./P5/EyeTracking-ConociendoGranada/Ana/ConociendoGranada-001.jpg)
+
+
+![imagen](./P5/EyeTracking-ConociendoGranada/Ana/ConociendoGranada-002.jpg)
+
+
+![imagen](./P5/EyeTracking-ConociendoGranada/Ana/ConociendoGranada-003.jpg)
+
+
+Madre Ana:
+
+![imagen](./P5/EyeTracking-ConociendoGranada/Madre-Ana/ConociendoGranada-001.jpg)
+
+
+![imagen](./P5/EyeTracking-ConociendoGranada/Madre-Ana/ConociendoGranada-002.jpg)
+
+
+![imagen](./P5/EyeTracking-ConociendoGranada/Madre-Ana/ConociendoGranada-003.jpg)
+
+
+
+De este caso no tenemos los puntos de interés que se pueden obtener con la herramienta Gaze Recorder, ya que la segunda vez que accedes al proyecto no permite obtener los puntos de interés ni visualizar las imágenes, porque es de pago y permite hacer las cosas una vez.
+
+
+
+Para ver todos los resultados obtenidos puede visualizar la carpeta ![EyeTracking-ConociendoGranada](./P5/EyeTracking-ConociendoGranada)
+
 
 
 ### Caso B
 Como caso B asignamos el proyecto de los compañeros CafeDerramao. A continuación se muestran algunos resultados de los distintos usuarios:
->>> Insertar Algunas fotos de los resultados que mejor se vean de mapa de calor
 
->>> Insertar algunas fotos de los resultados AOI
+Ignacio:
 
-Para ver todos los resultados obtenidos puede visualizar la carpeta ![EyeTracking-CafeDerramao](./EyeTracking-CafeDerramao)
+![imagen](./P5/EyeTracking-CafeDerramao/Ignacio/CafeDerramao-001.JPG)
+
+
+![imagen](./P5/EyeTracking-CafeDerramao/Ignacio/CafeDerramao-002.JPG)
+
+
+![imagen](./P5/EyeTracking-CafeDerramao/Ignacio/CafeDerramao-003.JPG)
+
+Ana:
+
+![imagen](./P5/EyeTracking-CafeDerramao/Ana/CafeDerramao-001.jpg)
+
+
+![imagen](./P5/EyeTracking-CafeDerramao/Ana/CafeDerramao-002.jpg)
+
+
+![imagen](./P5/EyeTracking-CafeDerramao/Ana/CafeDerramao-003.jpg)
+
+
+Madre Ana:
+
+![imagen](./P5/EyeTracking-CafeDerramao/Madre-Ana/CafeDerramao-001.jpg)
+
+
+![imagen](./P5/EyeTracking-CafeDerramao/Madre-Ana/CafeDerramao-002.jpg)
+
+
+![imagen](./P5/EyeTracking-CafeDerramao/Madre-Ana/CafeDerramao-003.jpg)
+
+
+
+Algunas de las fotos de los puntos de interés (AOIs) hechos con los heatmap de la madre de Ana:
+
+![imagen](./P5/EyeTracking-CafeDerramao/Madre-Ana/AOIs/AOI_1.png)
+
+
+![imagen](./P5/EyeTracking-CafeDerramao/Madre-Ana/AOIs/AOI_2.png)
+
+
+![imagen](./P5/EyeTracking-CafeDerramao/Madre-Ana/AOIs/AOI_3.png)
+
+
+
+Para ver todos los resultados obtenidos puede visualizar la carpeta ![EyeTracking-CafeDerramao](./P5/EyeTracking-CafeDerramao)
 
 ## Conclusiones
 
@@ -355,11 +432,11 @@ A partir de la información obtenida podemos concluir que la aplicación cuenta 
 
 ## Conclusión final / Valoración de las prácticas
 
-Como conclusión final de las prácticas podemos decir que estás practicas han sido muy gratificantes, debido a que se ha planteado un nuevo método de trabajo en el que, a partir de un primer análisis de una página con muchos errores, hemos llegado a realizar nuestro propio proyecto de página web en el que hemos aplicado los distintos conocimientos que hemos ido adquiriendo a lo largo del curso para realizar un buen diseño de página atractiva que ofrezca una buena experiencia al usuario.
+Como conclusión final de las prácticas, podemos decir han sido muy gratificantes, debido a que se ha planteado un nuevo método de trabajo en el que, a partir de un primer análisis de una página con múltiples errores, hemos llegado a realizar nuestro propio proyecto de página web en el que hemos aplicado los distintos conocimientos que hemos ido adquiriendo a lo largo del curso para realizar un buen diseño de página atractiva que ofrezca una buena experiencia al usuario.
 
+Hemos puesto en práctica técnicas de diseño web, usabilidad y experiencia de usuario, lo que nos ha permitido comprender la importancia de cada uno de estos aspectos en la creación de una página web. Además, hemos tenido la oportunidad de trabajar en un entorno colaborativo, lo que ha fomentado el intercambio de ideas y el trabajo en equipo.
 
-
-
+Es importante destacar que este proyecto nos ha permitido comprender la importancia de considerar al usuario como el centro de nuestro trabajo. Hemos valorado la relevancia de crear una página web que se ajuste a las necesidades y expectativas de los usuarios, ofreciéndoles una experiencia intuitiva y agradable.
 
 
 
