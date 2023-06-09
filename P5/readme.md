@@ -44,15 +44,15 @@ Como caso B asignamos el proyecto de los compañeros CafeDerramao. A continuaci�
 
 Algunas de las fotos de los puntos de interés (AOIs):
 
-[imagen](./EyeTracking-CafeDerramao/Madre-Ana/AOIS/AOI_1.png)
+![imagen](./EyeTracking-CafeDerramao/Madre-Ana/AOIS/AOI_1.png)
 
 
 
-[imagen](./EyeTracking-CafeDerramao/Madre-Ana/AOIS/AOI_2.png)
+![imagen](./EyeTracking-CafeDerramao/Madre-Ana/AOIS/AOI_2.png)
 
 
 
-[imagen](./EyeTracking-CafeDerramao/Madre-Ana/AOIS/AOI_3.png)
+![imagen](./EyeTracking-CafeDerramao/Madre-Ana/AOIS/AOI_3.png)
 
 
 
